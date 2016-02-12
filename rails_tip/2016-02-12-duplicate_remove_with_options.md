@@ -1,6 +1,4 @@
 ---
-layout: post
-
 title: Remove duplicate passed to series of method using with_options
 tip-number: 01
 tip-username: logesh 
