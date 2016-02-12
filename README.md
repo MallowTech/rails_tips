@@ -6,6 +6,10 @@ Being impressed with the awesomeness of jstip repository, I came up with the ide
 
 Please feel free to send us a pull request with your Rails tip to be published here. Any improvements or suggestions are more than welcome!
 
+# Tips list
+
+- 01 - [Remove duplicates using with_options](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-12-duplicate_remove_with_options.md)
+
 # License
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
