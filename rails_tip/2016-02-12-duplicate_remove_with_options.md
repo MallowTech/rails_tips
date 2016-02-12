@@ -13,14 +13,17 @@ An elegant way to factor duplication out of options passed to a series of method
 
 We usually had this dependent called every time and we certainly missed few times unnoticed as shown below
 
+```ruby
 class User < ActiveRecord::Base
   has_many :sample1, class_name: "User", dependent: :destroy
   has_many :sample2, dependent: :destroy
   has_many :sample3, as: :test
 end
+```
 
 In the above code we have duplicates and we have also missed dependent in one of our association. So for such scenarios, we can have the with_options used as shown below
 
+```ruby
 class User < ActiveRecord::Base
   with_options dependent: :destroy do |assoc|
     assoc.has_many :sample1, class_name: "User"
@@ -28,6 +31,6 @@ class User < ActiveRecord::Base
     assoc.has_many :sample3, as: :test
   end
 end 
-
+```
 
 I hope the above tip will be useful.
