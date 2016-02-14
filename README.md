@@ -8,6 +8,7 @@ Please feel free to send us a pull request with your Rails tip to be published h
 
 # Tips list
 
+- 03 - [Efficiency of pluck](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-14-efficiency_of_pluck.md)
 - 02 - [Where use strip or squish](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-13-strip-or-squish.md)
 - 01 - [Remove duplicates using with_options](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-12-duplicate_remove_with_options.md)
 
