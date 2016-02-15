@@ -1,5 +1,5 @@
 ---
-title: Formatting numbers to different representation
+title: Formatting numbers to different representation.
 tip-number: 04
 tip-username: logesh 
 tip-username-profile: https://github.com/logeshmallow
