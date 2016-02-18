@@ -1,9 +1,9 @@
 ---
 title: Pattern matching on Routes
-tip-number: 06
+tip-number: 07
 tip-username: Surender Thillainathan
 tip-username-profile: https://github.com/harrysuren
-tip-description: Getting teh desired routes which matches the given pattern/string
+tip-description: Getting the desired routes which matches the given pattern/string
 
 ---
 
