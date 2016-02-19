@@ -7,6 +7,7 @@ Being impressed with the awesomeness of jstip repository, I came up with the ide
 Please feel free to send us a pull request with your Rails tip to be published here. Any improvements or suggestions are more than welcome!
 
 # Tips list
+- 08 - [Enabling cache without app restart in dev env](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-19-enable_caching_for_develpment_with_command.md)
 - 07 - [Routes with pattern](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-18-routes_with_pattern.md)
 - 06 - [Rails sandbox console](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-17-rails_console_with_sandbox_mode.md)
 - 05 - [Unscope unwanted relation](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-16-unscope_unwanted_relation.md)
