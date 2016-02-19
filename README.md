@@ -8,6 +8,7 @@ Please feel free to send us a pull request with your Rails tip to be published h
 
 # Tips list
 - 07 - [Routes with pattern](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-18-routes_with_pattern.md)
+- 06 - [Rails sandbox console](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-17-rails_console_with_sandbox_mode.md)
 - 05 - [Unscope unwanted relation](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-16-unscope_unwanted_relation.md)
 - 04 - [Format numbers to different Formats](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-15-formatting_numbers.md)
 - 03 - [Efficiency of pluck](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-14-efficiency_of_pluck.md)
