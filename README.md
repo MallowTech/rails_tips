@@ -7,6 +7,7 @@ Being impressed with the awesomeness of jstip repository, I came up with the ide
 Please feel free to send us a pull request with your Rails tip to be published here. Any improvements or suggestions are more than welcome!
 
 # Tips list
+- 09 - [length vs size vs count](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-20-length_vs_size_vs_count.md)
 - 08 - [Enabling cache without app restart in dev env](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-19-enable_caching_for_develpment_with_command.md)
 - 07 - [Routes with pattern](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-18-routes_with_pattern.md)
 - 06 - [Rails sandbox console](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-17-rails_console_with_sandbox_mode.md)
