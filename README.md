@@ -9,7 +9,7 @@ Please feel free to send us a pull request with your Rails tip to be published h
 # Tips list
 - 14 - [Render views outside controller rails 5](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-25-rendering_views_outside_of_controllers.md)
 - 13 - [Get same time of next and previous week](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-24-same_time_option_to_next_and_prev_week_rails5.md)
-- 12 - [Disable multiple submission using date_diasble_with attr](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-23-disable_multiple_submit using_disable_with.md)
+- 12 - [Disable multiple submission using data_diasble_with attr](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-23-disable_multiple_submit using_disable_with.md)
 - 11 - [Migration using change vs up down methods](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-22-change_and_up_down_migration.md)
 - 10 - [Difference between puts and p](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-21-puts_vs_p.md)
 - 09 - [length vs size vs count](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-20-length_vs_size_vs_count.md)
