@@ -1,8 +1,8 @@
 ---
 title: Get same time of next week and previous week in rails 5
 tip-number: 13
-tip-username: Logesh
-tip-username-profile: https://github.com/logeshmallow
+tip-username: Logesh, Surender Thillainathan
+tip-username-profile: https://github.com/logeshmallow https://github.com/harrysuren
 tip-description: We can get the next week or the previous week with the current time using this methods.
 
 ---
