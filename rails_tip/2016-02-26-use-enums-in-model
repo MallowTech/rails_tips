@@ -10,7 +10,7 @@ tip-description: How to use enums in Rails models?
 Advantage:
 The column in the database can be integer type, but can access that column through enum.
 
-```Ruby
+```ruby
 Class Task < ActiveRecord::Base
   enum status: { to_do: 0, in_progress: 1, completed: 2 }
 end
@@ -18,7 +18,7 @@ end
 
 Accessing enums in controller methods
 
-```Ruby
+```ruby
 Task.statuses[:to_do]
 ```
 
