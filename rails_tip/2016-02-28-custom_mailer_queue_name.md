@@ -17,8 +17,9 @@ In Rails 5, we can now change queue name for mailer jobs using following configu
 
 ```ruby
 config.action_mailer.deliver_later_queue_name = 'testqueue'
+```
 
-
+```ruby
 class TestMailer < ApplicationMailer
   def send_msg(dev)
     @developer = dev
