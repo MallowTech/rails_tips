@@ -7,6 +7,8 @@ Being impressed with the awesomeness of jstip repository, I came up with the ide
 Please feel free to send us a pull request with your Rails tip to be published here. Any improvements or suggestions are more than welcome!
 
 # Tips list
+- 17 - [Customize mailer queue name](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-28-custom_mailer_queue_name.md)
+- 16 - [Inquiry in rails](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-27-rails_inquiry.md)
 - 15 - [Using enums in model](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-26-use-enums-in-model.md)
 - 14 - [Render views outside controller rails 5](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-25-rendering_views_outside_of_controllers.md)
 - 13 - [Get same time of next and previous week](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-24-same_time_option_to_next_and_prev_week_rails5.md)
