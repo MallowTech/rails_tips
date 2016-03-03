@@ -7,6 +7,7 @@ Being impressed with the awesomeness of jstip repository, I came up with the ide
 Please feel free to send us a pull request with your Rails tip to be published here. Any improvements or suggestions are more than welcome!
 
 # Tips list
+- 21 - [Throw exception in the request format](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-03-debug_exception_response_format.md)
 - 20 - [Pluck method added to enumerable in rails 5](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-02-pluck_added_to_enumerable_rails_5.md)
 - 19 - [Additional features of rails 5 migration](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-01-rails_5_migration_feature_additions.md)
 - 18 - [redirect_back in rails5](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-02-29-redirect_back_with_fallback.md)
