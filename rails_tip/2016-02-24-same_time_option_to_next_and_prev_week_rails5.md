@@ -3,7 +3,7 @@ title: Get same time of next week and previous week in rails 5
 tip-number: 13
 tip-username: Logesh, Surender Thillainathan
 tip-username-profile: https://github.com/logeshmallow https://github.com/harrysuren
-tip-description: We can get the next week or the previous week with the current time using this methods.
+tip-description: ActiveSupport improvements.
 
 ---
 
@@ -51,7 +51,7 @@ Using this option, we can now get next week date from the current time.
   => Mon, 01 Feb 2016 09:16:50 UTC +00:00
 ```
 
-In addition to that, Rails % has come with some features...
+In addition to that, Rails 5 has come with some features...
 
 We can check whether the given date is Weekends or not.
 
