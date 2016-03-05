@@ -1,6 +1,6 @@
 ---
 title: show exception in format as they were requested in rails 5 
-tip-number: 20
+tip-number: 21
 tip-username: Logesh
 tip-username-profile: https://github.com/logeshmallow
 tip-description: In rails when an exception occurs, we throw the response in html format and with this feature added the error will be thrown in the format of which the request was made.
