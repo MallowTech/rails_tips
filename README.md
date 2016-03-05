@@ -7,6 +7,7 @@ Being impressed with the awesomeness of jstip repository, I came up with the ide
 Please feel free to send us a pull request with your Rails tip to be published here. Any improvements or suggestions are more than welcome!
 
 # Tips list
+- 23 - [http_cache_forever rails 5](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-05-http_cache_forever_rails_5.md)
 - 22 - [Rails console autocomplete](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-04-rails_console_auto_complete.md)
 - 21 - [Throw exception in the request format](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-03-debug_exception_response_format.md)
 - 20 - [Pluck method added to enumerable in rails 5](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-02-pluck_added_to_enumerable_rails_5.md)
