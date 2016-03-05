@@ -30,7 +30,7 @@ Let’s see log for the above action.
 Processing by HomeController#index as HTML
   Rendered home/index.html.erb within layouts/application (1.3ms)
 Completed 200 OK in 224ms (Views: 212.4ms | ActiveRecord: 0.0ms)
-```ruby
+```
 
 And so on for every request for this action.
 
