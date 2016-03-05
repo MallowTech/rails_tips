@@ -1,6 +1,6 @@
 ---
 title: Rails console autocomplete to save time 
-tip-number: 21
+tip-number: 22
 tip-username: Logesh
 tip-username-profile: https://github.com/logeshmallow
 tip-description: In rails, we use rails console to test and interact directly with models and such from the command line and when we do so we can use the below set of tips to improve efficiency.
