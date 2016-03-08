@@ -1,5 +1,5 @@
 ---
-title: Rails 5 parameter filter improvement 
+title: Interaction with app from rails console
 tip-number: 25
 tip-username: Logesh
 tip-username-profile: https://github.com/logeshmallow
@@ -7,7 +7,8 @@ tip-description: We can interact with the app from console to imitate the real u
 
 ---
 
-Issuing Requests Interactively
+### Issuing Requests Interactively
+
 The app object can also issue faux requests into your app, mimicing what a real user might do. We tend not to do this very often, but it can be quite useful for one-off interactions with the app from the console. The best part is that no browser or server is required.
 
 Here's a quick test drive to give you a feel for what's possible:

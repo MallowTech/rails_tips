@@ -7,6 +7,7 @@ Being impressed with the awesomeness of jstip repository, I came up with the ide
 Please feel free to send us a pull request with your Rails tip to be published here. Any improvements or suggestions are more than welcome!
 
 # Tips list
+- 25 - [Issuing request interactively from rails console](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-07-Interaction_to_app_from_console.md)
 - 24 - [Filter parameter improvements rails 5](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-06-filter_parameter_enhancements_rails_5.md)
 - 23 - [http_cache_forever rails 5](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-05-http_cache_forever_rails_5.md)
 - 22 - [Rails console autocomplete](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-04-rails_console_auto_complete.md)
