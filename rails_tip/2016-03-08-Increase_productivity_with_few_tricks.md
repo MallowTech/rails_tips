@@ -11,7 +11,7 @@ tip-description: We often do some repetitive things that won’t seem like takin
 
 When you use large commands with multiple arguments from terminal, it would be difficult to remember that. And we might google it again and instead we can make use of **Ctrl + r**
 
-Open your terminal and press **Ctrl + r**. Start typing the first few chars of the command that you recently used. It should start showing you commands that matches your command query. If there is more than one command that matches, press *Ctrl + r* repeatedly to cycle through the commands that match your query. Press *Ctrl + e* to select a particular option.
+Open your terminal and press **Ctrl + r**. Start typing the first few chars of the command that you recently used. It should start showing you commands that matches your command query. If there is more than one command that matches, press **Ctrl + r** repeatedly to cycle through the commands that match your query. Press **Ctrl + e** to select a particular option.
 
 You can also say **history** in the command line to a list of every command that you may have executed.
 
