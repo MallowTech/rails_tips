@@ -7,7 +7,7 @@ tip-description: In rails whenever we were supposed to use left outer join, we u
 
 ---
 
-In Rails 4.x, we need to write the SQL for left outer join mnually as Active Record does not have support for outer joins.
+In Rails 4.x, we need to write the SQL for left outer join manually as Active Record does not have support for outer joins.
 
 ```ruby
 authors = Author.join('LEFT OUTER JOIN "posts" ON "posts"."author_id" = "authors"."id"')
