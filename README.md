@@ -7,6 +7,7 @@ Being impressed with the awesomeness of jstip repository, I came up with the ide
 Please feel free to send us a pull request with your Rails tip to be published here. Any improvements or suggestions are more than welcome!
 
 # Tips list
+- 28 - [Support for left outer join in rails 5](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-10-left_outer_join_in_Rails_5.md)
 - 27 - [Render partial from cache faster](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-09-rendering_partial_from_cache_faster.md)
 - 26 - [Increase productivity with console tricks](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-08-Increase_productivity_with_few_tricks.md)
 - 25 - [Issuing request interactively from rails console](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-07-Interaction_to_app_from_console.md)
