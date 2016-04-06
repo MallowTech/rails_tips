@@ -1,6 +1,6 @@
 ---
-title: Get same time of next week and previous week in rails 5
-tip-number: 13
+title: Check status of ActiveRecord Object
+tip-number: 30
 tip-username: Surender
 tip-username-profile: https://github.com/harrysuren
 tip-description: We can check the status of an ```ActiveRecord``` Object and its variables by using these methods.
