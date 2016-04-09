@@ -1,9 +1,9 @@
 ---
 title: Get same time of next week and previous week in rails 5
 tip-number: 13
-tip-username: Logesh
-tip-username-profile: https://github.com/logeshmallow
-tip-description: We can get the next week or the previous week with the current time using this methods.
+tip-username: Logesh, Surender Thillainathan
+tip-username-profile: https://github.com/logeshmallow https://github.com/harrysuren
+tip-description: ActiveSupport improvements.
 
 ---
 
@@ -49,4 +49,48 @@ Using this option, we can now get next week date from the current time.
 
   Time.current.prev_week(same_time: true)
   => Mon, 01 Feb 2016 09:16:50 UTC +00:00
+```
+
+In addition to that, Rails 5 has come with some features...
+
+We can check whether the given date is Weekends or not.
+
+```ruby
+  Time.current
+  => Fri, 12 Feb 2016 09:15:10 UTC +00:00
+  
+  Time.current.on_weekend?
+  => false
+  
+  Time.current.tomorrow
+  => Sat, 12 Feb 2016 09:15:10 UTC +00:00
+    
+  Time.current.tomorrow.on_weekend?
+  => true
+```
+
+Similar to that we can check the Weekdays.
+
+```ruby
+  Time.current
+  => Fri, 12 Feb 2016 09:15:10 UTC +00:00
+  
+  Time.current.on_weekday?
+  => true
+  
+  Time.current.tomorrow
+  => Sat, 12 Feb 2016 09:15:10 UTC +00:00
+    
+  Time.current.tomorrow.on_weekend?
+  => false
+```
+
+We can get the number of days in a Year with `Time.day_in_year` method.
+
+```ruby
+  Time.days_in_year
+  => 366
+  
+  Time.days_in_year(2015)
+  => 365
 ```
