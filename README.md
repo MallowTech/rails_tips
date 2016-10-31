@@ -7,6 +7,9 @@ Being impressed with the awesomeness of jstip repository, I came up with the ide
 Please feel free to send us a pull request with your Rails tip to be published here. Any improvements or suggestions are more than welcome!
 
 # Tips list
+- 31 - [Remove ambiguous column issue in rails 5](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-11-31-Ambiguous_column_in_select_and_group_fix_in_rails5.md)
+- 30 - [Remove nil from hash in rails 5](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-11-26-Remove_nil_from_hash.md)
+- 29 - [Retrieving the ids of the has_many or has_many_through relationships](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-29-Retrieving_ids_from_relationship.md)
 - 28 - [Support for left outer join in rails 5](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-10-left_outer_join_in_Rails_5.md)
 - 27 - [Render partial from cache faster](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-09-rendering_partial_from_cache_faster.md)
 - 26 - [Increase productivity with console tricks](https://github.com/logeshmallow/rails_tips/blob/master/rails_tip/2016-03-08-Increase_productivity_with_few_tricks.md)
