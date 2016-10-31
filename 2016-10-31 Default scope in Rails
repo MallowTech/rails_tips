@@ -1,0 +1,42 @@
+---
+title: Default scope in Rails
+tip-number: 30
+tip-username: Gokul M
+tip-username-profile: https://github.com/mgokul595
+tip-description: Using default scope in Rails Model
+
+---
+
+```ruby default_scope ``` in Rails will apply the conditions on all queries on the Model.
+
+class Test < ActiveRecord::Base
+  default_scope { where(started: true) }
+end
+
+```ruby
+Test.all # => SELECT * FROM tests WHERE started = true
+```
+
+To using more complex queries inside the ```ruby default_scope ``` you can declare the class method as use it as below:
+
+```ruby
+class Test < ActiveRecord::Base
+  def self.default_scope
+    # Query goes here
+  end
+end
+
+```
+
+
+The default scope is applied on the ```ruby new ``` and ```ruby create ```.
+If we initialize a new object it will set the value of the column to the default value that we specified in the ```ruby default_scope ```.
+
+For Example, 
+
+```ruby
+Test.new # Initializes a Test which contains started=true
+```
+
+So, be careful on using ```ruby default_scope```
+--
