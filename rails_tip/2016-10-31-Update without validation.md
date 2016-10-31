@@ -32,3 +32,5 @@ Now, Just think what if you need to update more columns. It cause more queries t
 ```
 
 Using above method the validation of the columns can be skipped.
+
+--
